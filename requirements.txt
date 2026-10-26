@@ -1,0 +1,22 @@
+# Google Gemini
+google-generativeai
+
+# LangChain
+langchain
+langchain-community
+langchain-google-genai
+
+# Vector database
+faiss-cpu
+
+# Document loading
+pypdf
+
+# Environment variables
+python-dotenv
+
+# Embeddings / ML utilities
+sentence-transformers
+
+# Numerical operations
+numpy
